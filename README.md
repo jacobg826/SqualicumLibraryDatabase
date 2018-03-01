@@ -3,7 +3,7 @@ Squalicum library database designed for FBLA coding and programming 2018.
 
 
 
-# Viewing The Project
+# Running The Project
 To veiw final project look in the dist file.
 
 Download the SqualicumLibraryDatabase.zip file to get all of the relevent files for running my project.
