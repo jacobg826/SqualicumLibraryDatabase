@@ -3,7 +3,7 @@ Squalicum library database designed for FBLA coding and programming 2018.
 
 
 
-# Veiwing The Project
+# Viewing The Project
 To veiw final project look in the dist file.
 
 Download the SqualicumLibraryDatabase.zip file to get all of the relevent files for running my project.
@@ -13,7 +13,7 @@ If you are on mac the .jar file should run without needing to do anything.
 Here is a link to the zip file: https://github.com/jacobg826/SqualicumLibraryDatabase/blob/master/SqualicumDatabase/dist/SqualicumLibraryDatabase.zip
 
 
-# Veiwing The Source Code
+# Viewing The Source Code
 To veiw sorce code look in the src file.
 
 Here is a link to the source code:
