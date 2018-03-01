@@ -1,5 +1,12 @@
 # SqualicumLibraryDatabase
 Squalicum library database designed for FBLA coding and programming 2018.
-To veiw sorce code look in the src file
-To veiw completed applet download "squalicumLibraryDatabase.jar"
-make sure to download "UIBuild.db" and "tutorial.rtf" as well, these are required for the database to function properly.
+To veiw sorce code look in the src file.
+To veiw final project look in the dist file.
+Download the SqualicumLibraryDatabase.zip file to get all of the relevent files for running my project.
+if you are on windows you will want to make sure that java is installed on the computer, otherwise the .jar file will not run.
+if you are on mac the .jar file should run without needing to do anything.
+
+Here is a link to the zip file: https://github.com/jacobg826/SqualicumLibraryDatabase/blob/master/SqualicumDatabase/dist/SqualicumLibraryDatabase.zip
+
+Here is a link to the source code:
+https://github.com/jacobg826/SqualicumLibraryDatabase/tree/master/SqualicumDatabase/src/squalicumdatabase
